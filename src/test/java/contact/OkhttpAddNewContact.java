@@ -24,7 +24,7 @@ public class OkhttpAddNewContact {
                 .address("USA")
                 .description("Friend123")
                 .email(String.format("usa%d@gmail.com",i))
-                .id(123589+i)
+                .id(123589)
                 .lastName("Black")
                 .name("Jack")
                 .phone(String.format("12856%d",i))
